@@ -115,3 +115,20 @@ Withdraw money
 Menu-driven interface
 
 OOP concepts (Class & Encapsulation)
+
+
+# Number Guessing Game (C++)
+
+A console-based Number Guessing Game built in C++. The program generates a random number between 1 and 100, provides hints for each guess, and calculates the player's score based on the number of attempts used.
+
+**Key Features**:
+
+Random number generation
+
+Limited guessing attempts
+
+High/Low hints
+
+Score calculation system
+
+Interactive gameplay
