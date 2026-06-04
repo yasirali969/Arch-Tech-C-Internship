@@ -99,3 +99,19 @@ Data persistence
 
  **File Handling** 
 Tasks are stored in a text file so that data remains saved even after closing the program.
+
+ # ATM Management System (C++)
+
+ A menu-driven ATM Management System developed in C++ using Object-Oriented Programming concepts. The project allows users to check balance, deposit money, and withdraw funds while demonstrating encapsulation, classes, objects, and user interaction.
+
+ **Key Features**:
+
+Check account balance
+
+Deposit money
+
+Withdraw money
+
+Menu-driven interface
+
+OOP concepts (Class & Encapsulation)
